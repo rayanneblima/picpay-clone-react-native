@@ -50,6 +50,8 @@ function Navigation() {
         style: {
           backgroundColor: '#131418',
           borderTopColor: 'rgba(255, 255, 255, 0.2)',
+          paddingBottom: 10,
+          height: 60,
         },
         activeTintColor: '#fff',
         inactiveTintColor: '#92929c',
